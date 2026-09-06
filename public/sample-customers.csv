@@ -1,0 +1,25 @@
+customer_name,segment,monthly_usage,current_price,willingness_to_pay,variable_cost
+Lantern Labs,Startup,120,39,62,9
+Mosaic Metrics,Startup,180,39,70,11
+Juniper AI,Startup,240,49,82,14
+Brightpath Studio,Startup,95,29,55,8
+Northstar Notes,Startup,310,49,96,17
+Orchid Ops,Startup,145,39,66,10
+Harbour Analytics,Scale-up,720,99,145,32
+Signalstack,Scale-up,940,119,178,41
+Tandem Cloud,Scale-up,1250,129,210,52
+Copperline,Scale-up,860,109,165,38
+Kiteworks Digital,Scale-up,1580,149,248,63
+Arcwell Systems,Scale-up,1120,129,198,47
+Meridian Health,Mid-market,2450,249,365,92
+Fieldstone Finance,Mid-market,3180,279,430,118
+Vector Retail,Mid-market,2860,259,395,104
+Summit Learning,Mid-market,3720,299,480,136
+Clearwater Legal,Mid-market,2210,239,350,84
+Atlas Mobility,Mid-market,4160,329,525,149
+Apex Logistics,Enterprise,9200,649,980,315
+Evergreen Bank,Enterprise,12800,799,1250,420
+Pacific Telecom,Enterprise,15600,899,1480,510
+Horizon Energy,Enterprise,11000,749,1140,380
+Sterling Insurance,Enterprise,13800,849,1360,455
+Vertex Manufacturing,Enterprise,17500,949,1620,570
